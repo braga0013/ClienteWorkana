@@ -1,0 +1,78 @@
+
+.navbar-custom {
+    background-color: #004566; /* Código hexadecimal para a cor roxa desejada */
+}
+
+
+.dashboard .chart-container {
+    margin: 20px 0;
+}
+
+.cards-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin-top: 20px;
+}
+.card {
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    background-color: rgba(0, 0, 128, 0.2);
+    border-radius: 8px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.navbar-nav {
+    margin-left: auto;
+}
+
+.dropdown-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid;
+  }
+
+  .center-select {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.nav-link{
+    color: white;
+}
+
+.navbar-brand{
+    margin-left: 15px;
+}
+
+footer {
+    background-color: #004566;
+    color: white;
+}
+
+.span{
+    color: white;
+    font-size: 12px;
+}
+
+.footer .navbar-nav {
+    justify-content: center;
+}
+
+.footer .nav-item {
+    margin: 0 10px; /* Espaçamento horizontal entre os itens */
+}
+
+.footer .span {
+    display: block;
+    margin-top: 20px; /* Espaçamento acima do texto */
+}
